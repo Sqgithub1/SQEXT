@@ -1,0 +1,13 @@
+{
+  "name": "Squirrel Miner",
+  "symbol": "EXTS",
+  "description": "Squirrel Miner - Meme token of the ZDEEX community",
+  "image": "https://raw.githubusercontent.com/Sqgithub1/SQEXT/main/logext5050.jpg",
+  "external_url": "https://squirrel.games",
+  "attributes": [
+    {
+      "trait_type": "ZDEEX & Co",
+      "value": "iron: 10; carbon: 1; wood: 2"
+    }
+  ]
+}
